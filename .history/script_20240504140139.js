@@ -1,0 +1,3 @@
+function toggleMenu() {
+    const menu =
+}

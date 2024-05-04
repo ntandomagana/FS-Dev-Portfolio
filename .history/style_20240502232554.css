@@ -105,15 +105,15 @@ a {
 }
 
 .menu-links li {
-  list-style-type: none;
+    list-style-type: none;
 }
 
 .menu-links.open {
-  max-height: 300px;
+    max-height: 300px;
 }
 
 .hamburger-icon.open span:first-child {
-  transform: rotate(45deg) translate(10px, 5px);
+    transform: rotate(45deg) translate(10px, 5px); 
 }
 
 .hamburger-icon.open span:nth-child(2) {
@@ -133,15 +133,15 @@ a {
 }
 
 .hamburger-icon span:first-child {
-  transform: none;
+    transform: none;
 }
 
 section {
-  padding-top: 4vh;
-  height: 96vh;
-  margin: 0 10rem;
-  box-sizing: border-box;
-  min-height: fit-content;
+    padding-top: 4vh;
+    height: 96vh;
+    margin: 0 10rem;
+    box-sizing: border-box;
+    min-height: fit-content;
 }
 
 .section-container {
@@ -267,6 +267,8 @@ section {
   display: flex;
 }
 
+
+
 .arrow {
   position: absolute;
   right: -5rem;
@@ -352,11 +354,11 @@ article .icon {
 
 .project-title {
   margin: 1rem;
-  color: #00bbf0;
+  color:  #00bbf0;
 }
 
 .project-btn {
-  color: #00bbf0;
+  color:  #00bbf0;
   border-color: rgb(18, 217, 252);
 }
 
@@ -374,7 +376,7 @@ article .icon {
   justify-content: center;
   border-radius: 2rem;
   border: rgb(16, 220, 242) 0.1rem solid;
-  border-color: rgb(19, 211, 250);
+  border-color: rgb(163, 163, 163);
   background: (250, 250, 250);
   margin: 2rem auto;
   padding: 0.5rem;
@@ -400,6 +402,8 @@ article .icon {
   height: 2.5rem;
 }
 
+
+
 footer {
   height: 26vh;
   margin: 0 1rem;
@@ -407,30 +411,30 @@ footer {
 
 footer p {
   text-align: center;
-}
+} 
 
 /* Add this CSS to your existing style.css or create a new style tag in the head of your HTML */
 
 /* Bold, underline, and bubble effect for the logo */
 .logo {
   font-weight: bold;
-  text-decoration: wavy;
+  text-decoration:wavy;
   display: inline-block;
   position: relative;
-  border: 8px solid #1ea5ff; /* Adjust the border thickness and color as needed */
+  border: 8px solid #005792; /* Adjust the border thickness and color as needed */
   padding: 6px; /* Adjust the padding as needed */
 }
 
 .logo::after {
-  content: "";
+  content: '';
   position: absolute;
   width: 100%;
   height: 0;
   bottom: 0;
   left: 0;
   opacity: 0;
-  border-bottom: 2px solid #fff;
-  animation: bubble 0.5s infinite ease-in-out;
+  border-bottom: 2px solid #fff; 
+  animation: bubble 0.5s infinite ease-in-out; 
 }
 
 @keyframes bubble {

@@ -28,7 +28,7 @@ function typeText() {
       setTimeout(erase, 300); //erasing speed in ms
     } else {
       index = 0; //Reset index for next typing cycle
-      setTimeout(type, 200); // wait before typing again
+      setTimeout(type, 300); // wait before typing again
     }
   }
 
