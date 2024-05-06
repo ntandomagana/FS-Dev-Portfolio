@@ -79,7 +79,7 @@
     }
     .about-containers,
     .contact-info-upper-container,
-    .btn-container {
+  .btn-container {
     flex-wrap: wrap;
   }
   

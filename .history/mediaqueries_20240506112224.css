@@ -66,24 +66,6 @@
 
     #profile {
         height: 38vh;
-        margin-bottom: 0;
+        margin-bottom: ;
     }
-
-    article {
-        font-size: 1rem;
-    }
-
-    footer nav {
-        height: fit-content;
-        margin-bottom: 2rem;
-    }
-    .about-containers,
-    .contact-info-upper-container,
-    .btn-container {
-    flex-wrap: wrap;
-  }
-  
-  .contact-info-container {
-    margin: 0;
-  }
 }

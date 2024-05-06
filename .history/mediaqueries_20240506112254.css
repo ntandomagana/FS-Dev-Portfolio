@@ -74,16 +74,6 @@
     }
 
     footer nav {
-        height: fit-content;
-        margin-bottom: 2rem;
+        height: ;
     }
-    .about-containers,
-    .contact-info-upper-container,
-    .btn-container {
-    flex-wrap: wrap;
-  }
-  
-  .contact-info-container {
-    margin: 0;
-  }
 }

@@ -14,7 +14,7 @@ html {
 }
 
 p {
-  color: #515d65;
+  color: #005792;
 }
 
 section {
@@ -173,11 +173,11 @@ section {
   font-weight: 600;
 }
 
-.section-text-p1 {
+.section__text__p1 {
   text-align: center;
 }
 
-.section-text-p2 {
+.section__text__p2 {
   font-size: 1.75rem;
   margin-bottom: 1rem;
 }
