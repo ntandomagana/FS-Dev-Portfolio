@@ -227,12 +227,12 @@ section {
 
 .btn-color-1,
 .btn-color-2:hover {
-  background: rgb(76, 87, 90);
+  background: rgb(11, 214, 255);
   color: white;
 }
 
 .btn-color-1:hover {
-  background: rgb(76, 87, 90);
+  background: rgb(83, 215, 232);
 }
 
 .btn-color-2 {
@@ -240,7 +240,7 @@ section {
 }
 
 .btn-color-2:hover {
-  border: rgb(76, 87, 90) 0.2rem solid;
+  border: rgb(26, 210, 243) 0.2rem solid;
 }
 
 .btn-container {
@@ -280,8 +280,8 @@ section {
   flex: 1;
   background: white;
   border-radius: 2rem;
-  border: rgb(76, 87, 90) 0.1rem solid;
-  border-color: rgb(76, 87, 90);
+  border: rgb(34, 174, 239) 0.1rem solid;
+  border-color: rgb(28, 197, 249);
   text-align: center;
 }
 
@@ -303,7 +303,7 @@ section {
 }
 
 .experience-sub-title {
-  color: rgb(115, 146, 155);
+  color: rgb(48, 210, 246);
   font-weight: 600;
   font-size: 1.75rem;
   margin-bottom: 2rem;
@@ -342,7 +342,7 @@ article .icon {
 }
 
 .color-container {
-  border-color: rgb(76, 87, 90);
+  border-color: rgb(21, 220, 255);
   background: rgb(250, 250, 250);
 }
 
@@ -354,7 +354,7 @@ article .icon {
 
 .project-title {
   margin: 1rem;
-  color: #5f6e73;
+  color: #00bbf0;
 }
 
 .project-btn {

@@ -303,7 +303,7 @@ section {
 }
 
 .experience-sub-title {
-  color: rgb(115, 146, 155);
+  color: rgb(76, 87, 90);
   font-weight: 600;
   font-size: 1.75rem;
   margin-bottom: 2rem;
@@ -342,7 +342,7 @@ article .icon {
 }
 
 .color-container {
-  border-color: rgb(76, 87, 90);
+  border-color: rgb(21, 220, 255);
   background: rgb(250, 250, 250);
 }
 
@@ -354,7 +354,7 @@ article .icon {
 
 .project-title {
   margin: 1rem;
-  color: #5f6e73;
+  color: #00bbf0;
 }
 
 .project-btn {
